@@ -1,4 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Advance In Coding: Drag and Drop 
+
+> This repository is the code for the YouTube video [Drag And Drop FROM SCRATCH With VueJS! (no ext libs) [1/2]](https://www.youtube.com/watch?v=qi2lGfOfQ6s);
+
+## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
